@@ -7,3 +7,8 @@ notebook
 tqdm
 opencv-contrib-python
 scikit-learn
+tensorflow==2.12.0
+streamlit
+opencv-python
+numpy
+Pillow
